@@ -1,0 +1,10 @@
+Copy code101,John Smith,25,Software,50000
+102,Jane Doe,30,Marketing,60000
+103,Bob Johnson,28,Software,55000
+104,Alice Wong,32,HR,65000
+105,James Davis,26,Software,52000
+106,Sarah Lee,35,Marketing,70000
+107,David Brown,29,Software,58000
+108,Lisa Jones,27,HR,62000
+109,Michael Kim,31,Software,60000
+110,Amy Patel,33,Marketing,75000
